@@ -1,0 +1,23 @@
+/* Mobile */
+@media (max-width: 739px) {
+  .contect .name {
+    font-size: 42px;
+    margin-top: 179px;
+    float: right;
+    padding-left: 60px;
+    padding-right: 20px;
+  }
+
+  element.style {
+    position: relative;
+    width: 405px;
+    top: -131px;
+  }
+
+  .canvas.b-canvas {
+    width: 405px;
+    height: 350px;
+    position: relative;
+    top: -132px;
+  }
+}
